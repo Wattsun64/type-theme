@@ -18,7 +18,7 @@ After following such precise instructions, my first cup of coffee was made. Like
 
 "Not bad," I said, "Not the worst thing I've tasted." 
 
-My coworker tells me, "You're drinking a medium roast." 
+My coworker tells me, "You're drinking a [medium roast](http://www.coffeecrossroads.com/coffee-101/coffee-roasts-from-light-to-dark)." 
 
 "I'm drinking a what?!??" (as if I had just been told I consumed bleach)
 
