@@ -3,8 +3,6 @@ layout: post
 title: The Magic of Coffee
 ---
 
-# The Magic of Coffee
-
 ### My First Time
 
 I started drinking coffee about 2 years ago. At one point I consider myself someone who did not need to consume coffee in order to function. I thought it was more for show...oh how wrong I was!
